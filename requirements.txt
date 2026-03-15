@@ -1,0 +1,44 @@
+Node.js
+MongoDB
+Express.js
+React.js
+Axios
+Cors
+Mongoose
+
+
+
+#steps:
+# 1
+# Open terminal:
+# cd backend
+# npm install
+# node server.js
+# You should see:
+# MongoDB Connected
+# Server running on port 5000
+# Leave this terminal running.
+
+
+# 2
+# Open another terminal:
+# cd frontend
+# npm install
+# npm start
+
+# Browser will open:
+# http://localhost:3000
+
+# 3
+# Open MongoDB Compass and connect to:
+# mongodb://127.0.0.1:27017
+# Database notesDB will be created automatically when the first note is added.
+
+
+# Two terminals should be running:
+# Terminal 1 (Backend)
+# cd backend
+# node server.js
+# Terminal 2 (Frontend)
+# cd frontend
+# npm start
